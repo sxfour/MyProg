@@ -1,2 +1,2 @@
-# MyProg
-Django my site
+# Сайт на Django
+Исходный код моего сайта на Django
