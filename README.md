@@ -1,0 +1,2 @@
+# MyProg
+Django my site
